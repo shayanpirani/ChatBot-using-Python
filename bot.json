@@ -1,0 +1,44 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey"],
+    "bot_response": "Hey I am SayabiDev's Bot.",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["see you", "goodbye", "bye"],
+    "bot_response": "See you again,it was nice talking with you!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["nice", "to", "meet", "you"],
+    "bot_response": "Thanks,the pleasure is all mine!",
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "learn", "code", "coding", "apps"],
+    "bot_response": "Start by typing: 'How to learn coding' on Google,Safari or the Internet.",
+    "required_words": ["learn", "code"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["refund", "how", "can", "I", "get"],
+    "bot_response": "We don't offer refunds for free education.",
+    "required_words": ["refund", "i"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": "I'm great! Thanks for asking.",
+    "required_words": ["how", "are", "you"]
+  },
+{
+    "response_type": "question",
+    "user_input": ["tell", "me", "about","SayabiDev"],
+    "bot_response": "We at SayabiDevs put in our all to elevate your business to the highest level and plan on soaring high in the world of IT. For us, every opportunity is a path we shall bravely endeavor, and every client is a family that we love, respect, and cherish. We love to help businesses flourish so who else would your business Rev, but SayabiDevs!We are a team of expert goal-oriented developers dedicated to building a wide array of projects on many different platforms. We want to make Sayabidevs into a global platform for a quick, reliable and simple way to fulfill client requests. Which is supported by flexible and secure payment methods. ",
+    "required_words": ["SayabiDev"]
+  }
+]
